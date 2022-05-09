@@ -1,0 +1,13 @@
+
+#random {
+    background-image: url("pinkbakc2.jpg");
+}
+body {
+    background-color: rgb(255, 218, 245);
+}
+div   {
+		background: rgb(193, 121, 255);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
